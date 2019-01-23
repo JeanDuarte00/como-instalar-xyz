@@ -3,7 +3,8 @@
 #### Para instalar a IDE do Android, seguimos os seguites passos.
 
 
-##### Vamos até o site da IDE e fazemos o download
+* Vamos até o site da IDE e fazemos o download
+
 [Baixar aqui](https://developer.android.com/studio/?hl=pt-br)
 
 ![alt text](./img/site_android-studio.png "Android Studio web site")

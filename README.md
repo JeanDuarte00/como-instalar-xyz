@@ -48,18 +48,24 @@ Se a pasta da linguagem/projeto não existir, é só criar e dentro dela colocar
 
 | Nome  | Linux | MacOS | Windows | FreeBSD
 | --- | --- | --- | --- | --- |
-| NodeJS | [link](./tutoriais/nodejs/linux.md) | [link](./tutoriais/nodejs/mac.md) | Não tem | Não tem |
+| NodeJS | [link](./tutoriais/nodejs/linux.md) | [link](./tutoriais/nodejs/mac.md) | [link](./tutoriais/nodejs/windows.md) | Não tem |
 | Java | [link](./tutoriais/java/linux/ubuntu.md)| Não tem | Não tem | Não tem |
 | R | [link](.tutoriais/R/linux/ubuntu.md)| Não tem | Não tem | Não tem|
+| Ruby | [link](./tutoriais/ruby/linux.md)| Não tem | Não tem | Não tem|
+| Go | [link](./tutoriais/go/linux.md) | Não tem | Não tem | Não tem|
+| PHP | [link](./tutoriais/php/linux/ubuntu.md) | Não tem | Não tem | Não tem|
 
 # Editores de texto, IDEs e etc
 
 | Nome  | Linux | MacOS | Windows | FreeBSD
 | --- | --- | --- | --- | --- |
 | VSCode | [link](./tutoriais/vscode/linux/ubuntu.md) | Não tem | Não tem | Não tem |
+| Eclipse | [link](./tutoriais/eclipse/linux/README.md) | Não tem | Não tem | Não tem |
 
 # Outros
 
 | Nome  | Linux | MacOS | Windows | FreeBS
 | --- | --- | --- | --- | --- |
 | Docker | [link](./tutoriais/docker/README.md) | Não tem | Não tem | Não tem |
+| Apache | [link](./tutoriais/apache/linux/ubuntu.md) | Não tem | Não tem | Não tem |
+| Mysql | [link](./tutoriais/mysql/linux/ubuntu.md) | Não tem | Não tem | Não tem |

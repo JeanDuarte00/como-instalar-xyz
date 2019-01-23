@@ -61,6 +61,8 @@ Se a pasta da linguagem/projeto não existir, é só criar e dentro dela colocar
 | --- | --- | --- | --- | --- |
 | VSCode | [link](./tutoriais/vscode/linux/ubuntu.md) | Não tem | Não tem | Não tem |
 | Eclipse | [link](./tutoriais/eclipse/linux/README.md) | Não tem | Não tem | Não tem |
+| Android Studio | Não tem | Não tem | [link](./tutoriais/android_studio/windows/windows.md) | Não tem |
+
 
 # Outros
 

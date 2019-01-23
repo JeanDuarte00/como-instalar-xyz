@@ -4,12 +4,11 @@
 
 
 ###### Vamos até o site da IDE e fazemos o download
-[Site da IDE Android Studio](https://developer.android.com/studio/?hl=pt-br)
+[Baixar aqui](https://developer.android.com/studio/?hl=pt-br)
 
 ![alt text](./img/site_android-studio.png "Android Studio web site")
 
 * Baixe o instalador e execute, e deixe a instalação ser finalizada. 
-![alt text](./img/installer.png "Android Studio Installer")
 
 * Quando a instalação terminar só precisa prosseguir e finalizar.
 
